@@ -1,5 +1,4 @@
 # jjgskb.github.io
-Website
 <img src="https://github.com/jjgskb/jjgskb.github.io/assets/141835434/bfa74a9d-1737-40d9-ac1f-3943d4f15b53" alt="RPB Photo" align="right" width="30%"/>
 # James Oliver Blaschek
 
